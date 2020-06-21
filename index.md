@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/tarbib/redesigned-potato/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrmRQMF4GQEUbFdC?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -20,8 +22,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrmRQMF4GQEUbFdC?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 **Bold** and _Italic_ and `Code` text
 
